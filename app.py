@@ -8,6 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 
+#test
 st.set_page_config(page_title="Demand Forecast Dashboard (Himani Purawat, MUJ)", layout="wide")
 st.title("📈 Forecasting at scale - (Himani Purawat, MUJ)")
 
